@@ -12,3 +12,13 @@ This project involves the analysis of a Coffee Order Dataset to uncover sales tr
 - Which roast types (Light, Medium, Dark) generate the highest sales?
 - Which product sizes contribute most to total sales?
 - Dashboard Interaction <a href="https://github.com/sikaleg/Coffee-Sales-Analysis-MS-Excel-/blob/main/Coffee%20Orders%20Project.xlsx">View Dashboard </a>
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format, and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicers to make dynamic.
+
+## Dashboard
+<img width="807" height="409" alt="Screenshot 2026-01-29 173029" src="https://github.com/user-attachments/assets/544dba37-3f39-4061-aeaa-95c0b6a1a211" />
+
+
