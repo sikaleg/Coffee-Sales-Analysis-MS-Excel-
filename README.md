@@ -35,7 +35,15 @@ The dataset contains transactional, customer, and demographic information, inclu
 <img width="807" height="409" alt="Screenshot 2026-01-29 173029" src="https://github.com/user-attachments/assets/544dba37-3f39-4061-aeaa-95c0b6a1a211" />
 
 ## Key Insight
+The Coffee Sales analysis shows that revenue is concentrated across specific markets (United States), time periods (2019–2021 peak), customer segments (non-loyalty vs loyalty customers), and product attributes (coffee size and roast type). Total sales for the period analyzed amounted to $45,134, with performance largely driven by the United States, which generated $35,639 (approximately 79%) of total revenue. In comparison, Ireland contributed $6,697 (15%), while the United Kingdom accounted for $2,799 (6%), indicating a heavy dependence on the U.S. market.
 
+Sales performance over time shows gradual growth from 2019 ($12,187) through 2021 ($13,766), which was the highest-performing year, followed by a sharp decline in 2022 ($7,063). Monthly analysis further reveals demand variability, with February 2020 recording the highest monthly sales ($1,798) and August 2022 recording the lowest ($244). This pattern suggests possible seasonality and changing demand conditions over time.
+
+Product performance analysis indicates relatively balanced revenue contribution across coffee types, with Robusta ($12,306), Excelsa ($12,054), and Arabica ($11,768) performing closely, while Liberica generated the lowest sales ($9,005). This suggests diversified customer preferences rather than dependence on a single coffee variety.
+
+Customer segmentation analysis shows that non-loyalty customers generated $24,216 (54%) of total sales, while loyalty customers contributed $20,918 (46%). Although loyalty customers represent a substantial revenue share, non-loyalty customers currently contribute more, highlighting an opportunity to improve loyalty conversion and retention.
+
+Further analysis by roast type reveals that Light roast coffee generated the highest revenue at $17,354, followed by Medium roast ($14,600) and Dark roast ($13,179). Product size analysis shows a strong preference for larger quantities, with 2.5 kg products accounting for $23,789 (over 50% of total sales), while smaller sizes such as 0.2 kg generated $3,308, indicating that bulk purchases are a key revenue driver.
 ## Conclusion
 
 
