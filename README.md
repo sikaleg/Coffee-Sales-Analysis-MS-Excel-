@@ -34,4 +34,8 @@ The dataset contains transactional, customer, and demographic information, inclu
 ## Dashboard
 <img width="807" height="409" alt="Screenshot 2026-01-29 173029" src="https://github.com/user-attachments/assets/544dba37-3f39-4061-aeaa-95c0b6a1a211" />
 
+## Key Insight
+
+## Conclusion
+
 
