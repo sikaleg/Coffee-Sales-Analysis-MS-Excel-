@@ -45,5 +45,9 @@ Customer segmentation analysis shows that non-loyalty customers generated $24,21
 
 Further analysis by roast type reveals that Light roast coffee generated the highest revenue at $17,354, followed by Medium roast ($14,600) and Dark roast ($13,179). Product size analysis shows a strong preference for larger quantities, with 2.5 kg products accounting for $23,789 (over 50% of total sales), while smaller sizes such as 0.2 kg generated $3,308, indicating that bulk purchases are a key revenue driver.
 ## Conclusion
+This project demonstrates how sales data can be transformed into actionable business intelligence by identifying where revenue comes from, when it peaks, who drives it, and which products perform best. The analysis confirms that revenue is predominantly driven by U.S. customers, large product sizes (2.5 kg), and Light roast coffee, with peak performance observed between 2019 and 2021.
 
+The findings suggest clear business opportunities, including reducing reliance on a single geographic market, aligning inventory and pricing strategies with high-performing product sizes and roast types, and strengthening loyalty programs to increase repeat purchases. The post-2021 decline in sales also highlights the importance of proactive sales monitoring and demand forecasting.
+
+Overall, the Coffee Sales Dashboard serves as a practical decision-support tool that enables stakeholders to evaluate sales performance across markets, time periods, customer segments, and product attributes, while the project itself demonstrates strong analytical, visualization, and business storytelling skills using Microsoft Excel.
 
