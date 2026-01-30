@@ -32,7 +32,7 @@ The dataset contains transactional, customer, and demographic information, inclu
 - Merge all pivot tables into one dashboard and apply slicers to make dynamic.
 
 ## Dashboard
-<img width="807" height="409" alt="Screenshot 2026-01-29 173029" src="https://github.com/user-attachments/assets/544dba37-3f39-4061-aeaa-95c0b6a1a211" />
+<img width="807" height="419" alt="Screenshot 2026-01-29 173029" src="https://github.com/user-attachments/assets/3754cd73-2b7e-47a1-be90-8017dd111995" />
 
 ## Key Insight
 The Coffee Sales analysis shows that revenue is concentrated across specific markets (United States), time periods (2019–2021 peak), customer segments (non-loyalty vs loyalty customers), and product attributes (coffee size and roast type). Total sales for the period analyzed amounted to $45,134, with performance largely driven by the United States, which generated $35,639 (approximately 79%) of total revenue. In comparison, Ireland contributed $6,697 (15%), while the United Kingdom accounted for $2,799 (6%), indicating a heavy dependence on the U.S. market.
