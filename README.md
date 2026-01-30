@@ -1,9 +1,7 @@
 # Coffee Sales Analysis and Dashboard (Excel)
 ## Project Overview
 This project involves the analysis of a Coffee Order Dataset to uncover sales trends, customer insights, and performance across countries and product categories. The primary objective was to clean and transform raw data, generate meaningful insights using pivot tables, and present the results through an interactive Excel dashboard.
-## Dataset Used
-<a href="https://github.com/sikaleg/Coffee-Sales-Analysis-MS-Excel-/blob/main/Coffee%20Orders%20Dataset.xlsx"> Dataset </a>
-## Business Questions and KPIs
+## Business Questions
 - How does total coffee sales vary across the United States, Ireland, and the United Kingdom?
   Insight Enabled By: Sales by Country Chart
 - Are coffee sales increasing, declining, or seasonal over time?
@@ -13,6 +11,9 @@ This project involves the analysis of a Coffee Order Dataset to uncover sales tr
 - Which roast types (Light, Medium, Dark) generate the highest sales?
 - Which product sizes contribute most to total sales?
 - Dashboard Interaction <a href="https://github.com/sikaleg/Coffee-Sales-Analysis-MS-Excel-/blob/main/Coffee%20Orders%20Project.xlsx">View Dashboard </a>
+## Dataset Description
+- Dataset Used
+<a href="https://github.com/sikaleg/Coffee-Sales-Analysis-MS-Excel-/blob/main/Coffee%20Orders%20Dataset.xlsx"> Dataset </a>
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format, and values used.
