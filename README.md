@@ -4,7 +4,8 @@ This project involves the analysis of a Coffee Order Dataset to uncover sales tr
 ## Dataset Used
 <a href="https://github.com/sikaleg/Coffee-Sales-Analysis-MS-Excel-/blob/main/Coffee%20Orders%20Dataset.xlsx"> Dataset </a>
 ## Business Questions and KPIs
-- How does total coffee sales vary across the United States, Ireland, and the United Kingdom?
+### Business Question                                                                                    ### KPIs USed
+- How does total coffee sales vary across the United States, Ireland, and the United Kingdom?             Total Sales by Country
 - Are coffee sales increasing, declining, or seasonal over time?
 - How do different coffee types (Arabica, Robusta, Excelsa, Liberica) perform over time?
 - Which customers generate the highest revenue?
