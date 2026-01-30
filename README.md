@@ -20,6 +20,11 @@ The dataset contains transactional, customer, and demographic information, inclu
 - Quantity, Unit Price
 - Country (United States, Ireland, United Kingdom)
 - Loyalty Card (Yes/No)
+## Tools & Skills USed
+- Microsoft Excel
+- Data Cleaning & Transformation
+- Pivot Tables & Charts
+- Dashboard Design
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format, and values used.
