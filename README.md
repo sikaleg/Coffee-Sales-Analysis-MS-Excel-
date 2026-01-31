@@ -1,6 +1,8 @@
 # Coffee Sales Analysis and Dashboard (Excel)
 ## Project Overview
 This project involves the analysis of a Coffee Order Dataset to uncover sales trends, customer insights, and performance across countries and product categories. The primary objective was to clean and transform raw data, generate meaningful insights using pivot tables, and present the results through an interactive Excel dashboard.
+## Project Objective
+To analyze and visualize coffee sales data in order to identify sales trends, top-performing markets, high-value customers, and product preferences using Microsoft Excel.
 ## Business Questions
 - How does total coffee sales vary across the United States, Ireland, and the United Kingdom?
   Insight Enabled By: Sales by Country Chart
