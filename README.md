@@ -51,3 +51,5 @@ The findings suggest clear business opportunities, including reducing reliance o
 
 Overall, the Coffee Sales Dashboard serves as a practical decision-support tool that enables stakeholders to evaluate sales performance across markets, time periods, customer segments, and product attributes, while the project itself demonstrates strong analytical, visualization, and business storytelling skills using Microsoft Excel.
 
+## Author
+Godwin Sikale | Data Analyst
